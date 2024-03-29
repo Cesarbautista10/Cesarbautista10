@@ -1,4 +1,3 @@
-# Cesarbautista10
 ### Perfil Personal y Profesional
 
 Soy un apasionado del mundo tecnológico, especializado en el desarrollo de nuevas tecnologías y aplicaciones robustas. Me encanta innovar y tengo un particular interés en las tecnologías móviles. Fuera del trabajo, disfruto de la lectura y la música, las cuales considero mis pasatiempos favoritos.
