@@ -6,8 +6,6 @@
 
 </head>
 <body>
-    <h3>Personal and Professional Profile 💀 </h3>
-    <p> I am passionate about the technological world, specializing in the development of new technologies and robust applications. I love innovation and have a particular interest in mobile technologies. Outside of work, I enjoy reading and music 🎶 , which I consider my favorite hobbies.</p>
     <h4>Embedded Software Engineer</h4>
     <ul>
         <li> 💻 Design and develop software for electronic products based on microcontrollers and embedded systems.</li>
