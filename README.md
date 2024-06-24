@@ -21,6 +21,10 @@
     </ul>
     <p>My experience and skills enable me to make significant contributions to the development of innovative technologies in computer and technological engineering.</p>
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=c,latex,python,html,css)](https://skillicons.dev)
+
+
  ## My GitHub Stats  <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="40">
 
 <p  align=center>
