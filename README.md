@@ -3,34 +3,53 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <title>Cesar Bautista's Professional Profile</title>
 </head>
 <body>
-    <h4>Embedded Software Engineer</h4>
-    <ul>
-        <li> 💻 Design and develop software for electronic products based on microcontrollers and embedded systems.</li>
-        <li> 🐛 Debug and troubleshoot embedded systems.</li>
-        <li> 🌎 Optimize software efficiency.</li>
-        <li> 📈 Collaborate with the hardware team and participate in reengineering projects.</li>
-        <li> 👾 Develop firmware and libraries in various languages and compilers.</li>
-        <li> 🎤 Implement communication algorithms and protocols.</li>
-        <li> 📰 Conduct thorough testing and maintain up-to-date documentation.</li>
-        <li> 🏆 Collaborate with other teams to establish efficient processes.</li>
-        <li> 🕤 Provide technical support in the presentation of electronic products.</li>
-        <li> 🐾 Stay updated on the latest technologies.</li>
-    </ul>
-    <p>My experience and skills enable me to make significant contributions to the development of innovative technologies in computer and technological engineering.</p>
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,latex,python,html,css)](https://skillicons.dev)
-
-
- ## My GitHub Stats  <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="40">
-
-<p  align=center>
-<img  title="Cesarbautista10 stats"  alt="Cesarbautista10 stats"  src="https://github-readme-stats.vercel.app/api/?username=Cesarbautista10&count_private=true&theme=merko&show_icons=true&rank_icon=github&hide_border=true&border_radius=20" />
-<img  title="Cesarbautista10 streak"  alt="Cesarbautista10 streak"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarbautista10&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=donut&border_radius=20"/>
-</p>
-
+    <header>
+        <h1>Cesar Bautista - Embedded Systems Engineer</h1>
+        <p>
+            Passionate about designing efficient, scalable solutions for embedded systems, with expertise in firmware development, hardware integration, and cutting-edge technologies.
+        </p>
+    </header>
+    <section>
+        <h2>Professional Highlights</h2>
+        <ul>
+            <li>Design and develop software for microcontrollers and embedded systems.</li>
+            <li>Debug and optimize embedded systems for maximum efficiency.</li>
+            <li>Implement communication protocols such as UART, SPI, and I2C.</li>
+            <li>Collaborate with cross-functional teams for product development.</li>
+            <li>Develop and maintain firmware libraries and real-time operating systems (RTOS).</li>
+            <li>Ensure robust testing and maintain detailed documentation.</li>
+            <li>Stay updated with emerging technologies in embedded systems and IoT.</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Technical Expertise</h2>
+        <ul>
+            <li><strong>Programming Languages:</strong> C, Python, Assembly.</li>
+            <li><strong>Hardware Interfaces:</strong> UART, SPI, I2C, GPIO.</li>
+            <li><strong>Development Tools:</strong> Keil, GCC, PlatformIO, JTAG Debuggers.</li>
+            <li><strong>Embedded Platforms:</strong> ESP32, STM32, RP2040, CH55x.</li>
+            <li><strong>Protocols:</strong> MQTT, HTTP, Modbus.</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Tech Stack</h2>
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=c,python,cpp,html,css,git,arduino" alt="Tech Stack Icons">
+        </p>
+    </section>
+    <section>
+        <h2>GitHub Contributions</h2>
+        <p align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=Cesarbautista10&show_icons=true&theme=gruvbox&count_private=true" alt="GitHub Stats" style="max-width: 400px; border-radius: 8px;">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cesarbautista10&theme=xcode&hide_border=true" alt="GitHub Activity Graph">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarbautista10&theme=merko&layout=donut" alt="Top Languages">
+        </p>
+    </section>
+    <footer>
+        <p align="center">Let's innovate together! Connect with me on <a href="https://github.com/Cesarbautista10">GitHub</a>.</p>
+    </footer>
 </body>
 </html>
