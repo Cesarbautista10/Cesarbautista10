@@ -42,8 +42,8 @@
     <section>
         <h2>GitHub Contributions</h2>
         <p align="center">
+         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cesarbautista10&theme=xcode&hide_border=true" alt="GitHub Activity Graph">
             <img src="https://github-readme-stats.vercel.app/api?username=Cesarbautista10&show_icons=true&theme=gruvbox&count_private=true" alt="GitHub Stats" style="max-width: 400px; border-radius: 8px;">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cesarbautista10&theme=xcode&hide_border=true" alt="GitHub Activity Graph">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarbautista10&theme=merko&layout=donut" alt="Top Languages">
         </p>
     </section>
