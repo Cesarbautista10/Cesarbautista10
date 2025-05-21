@@ -39,6 +39,9 @@
             <img src="https://skillicons.dev/icons?i=c,python,cpp,html,css,git,arduino" alt="Tech Stack Icons">
         </p>
     </section>
+    <br clear="both">
+    <img src="https://raw.githubusercontent.com/bm0x/bm0x/output/snake.svg" alt="Snake animation" />
+    </div>
     <section>
         <h2>GitHub Contributions</h2>
         <p align="center">
