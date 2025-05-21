@@ -40,7 +40,7 @@
         </p>
     </section>
     <br clear="both">
-    <img src="https://raw.githubusercontent.com/bm0x/bm0x/output/snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/Cesarbautista10/Cesarbautista10/refs/heads/output/snake.svg" alt="Snake animation" />
     </div>
     <section>
         <h2>GitHub Contributions</h2>
