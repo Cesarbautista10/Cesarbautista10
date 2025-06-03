@@ -36,7 +36,7 @@
     <section>
         <h2>Tech Stack</h2>
         <p align="center">
-            <img src="https://skillicons.dev/icons?i=c,python,cpp,html,css,git,arduino" alt="Tech Stack Icons">
+            <img src="https://skillicons.dev/icons?i=rust,c,python,cpp,html,css,git,arduino" alt="Tech Stack Icons">
         </p>
     </section>
     <br clear="both">
