@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Cesar%20Bautista&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20%26%20IoT%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Cesar%20Bautista&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20and%20IoT%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" alt="header" />
 
 <a href="https://github.com/Cesarbautista10">
   <img src="https://img.shields.io/badge/GitHub-Cesarbautista10-181717?style=for-the-badge&logo=github&logoColor=white" />
