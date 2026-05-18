@@ -153,22 +153,21 @@ focus:
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.hackclub.dev/api?username=Cesarbautista10&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=Cesarbautista10&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Cesarbautista10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Cesarbautista10&layout=compact&langs_count=8&hide_border=true" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cesarbautista10&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cesarbautista10&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cesarbautista10&theme=tokyonight&utcOffset=-6" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cesarbautista10&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cesarbautista10&theme=tokyonight" />
 
 <br/><br/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=Cesarbautista10&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=BB9AF7&currStreakLabel=70A5FD" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cesarbautista10&theme=tokyonight" />
 
 </div>
 
