@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Cesar%20Bautista&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20and%20IoT%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" alt="header" />
+# Cesar Bautista
+
+<a href="https://github.com/Cesarbautista10">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=600&lines=Embedded+Systems+%26+IoT+Engineer;Firmware+%7C+Hardware+%7C+Open+Source;ESP32+%7C+RP2040+%7C+STM32+%7C+RISC-V" alt="typing" />
+</a>
+
+<br/><br/>
 
 <a href="https://github.com/Cesarbautista10">
   <img src="https://img.shields.io/badge/GitHub-Cesarbautista10-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -192,7 +198,5 @@ focus:
 <div align="center">
 
 ### Building the next generation of embedded and connected systems.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
 
 </div>
