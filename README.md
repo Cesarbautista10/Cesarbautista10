@@ -146,20 +146,29 @@ focus:
 
 <div align="center">
 
-<a href="https://github.com/Cesarbautista10">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Cesarbautista10&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarbautista10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9" />
-</a>
+<img src="https://img.shields.io/github/followers/Cesarbautista10?style=for-the-badge&color=70A5FD&labelColor=0D1117&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/stars/Cesarbautista10?style=for-the-badge&color=70A5FD&labelColor=0D1117&logo=github&label=Total%20Stars&affiliations=OWNER" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=70A5FD&labelColor=0D1117&logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FCesarbautista10" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=70A5FD&labelColor=0D1117&logo=github&label=Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FCesarbautista10" />
 
 <br/><br/>
 
-<a href="https://github.com/Cesarbautista10">
-  <img height="170" src="https://streak-stats.demolab.com?user=Cesarbautista10&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=BB9AF7&currStreakLabel=70A5FD" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.hackclub.dev/api?username=Cesarbautista10&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9" />
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=Cesarbautista10&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Cesarbautista10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9" />
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Cesarbautista10&layout=compact&langs_count=8&hide_border=true" />
+</picture>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Cesarbautista10&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img height="170" src="https://streak-stats.demolab.com?user=Cesarbautista10&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=BB9AF7&currStreakLabel=70A5FD" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cesarbautista10&theme=tokyonight" />
 
 </div>
 
