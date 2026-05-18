@@ -9,6 +9,9 @@
 <a href="https://www.linkedin.com/in/cesar-bautista-653513356/">
   <img src="https://img.shields.io/badge/LinkedIn-Cesar_Bautista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.hackster.io/mrcronos">
+  <img src="https://img.shields.io/badge/Hackster-mrcronos-2E9FE6?style=for-the-badge&logo=hackster&logoColor=white" />
+</a>
 
 <br/>
 
